@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "updated": "2026-01-12",
+    "reviews": [
+        {
+            "id": "tt0137523",
+            "title": "Fight Club",
+            "year": 1999,
+            "rating": 9,
+            "watchedOn": "2026-01-10",
+            "summary": "Still hits. Fincher at his sharpest.",
+            "tags": ["thriller", "classic"]
+        }
+    ]
+}
